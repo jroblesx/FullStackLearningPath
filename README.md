@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Ruta de aprendizaje para desarrolladores FullStack Javascript
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
